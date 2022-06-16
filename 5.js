@@ -11,3 +11,6 @@ function getData() {
       // logic of dom
     });
 }
+
+//METHOD CHAINING
+// fetch().then().then()
