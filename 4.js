@@ -1,3 +1,7 @@
+window.onload = () => {
+  getData();
+};
+
 function getData() {
   const url = "https://jsonplaceholder.typicode.com/posts";
 
